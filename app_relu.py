@@ -1,4 +1,3 @@
-"""BSD3513 Lab 5 - App 1: ReLU activation function visualiser (Streamlit)."""
 import numpy as np
 import matplotlib.pyplot as plt
 import streamlit as st
